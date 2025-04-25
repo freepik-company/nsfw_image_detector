@@ -1,8 +1,10 @@
 # NSFW Image Detector
 
-A Python library that provides easy-to-use interfaces for NSFW (Not Safe For Work) image detection using an EVA-based vision transformer model published on Hugging Face -> (Model card)[https://huggingface.co/Freepik/nsfw_test]
+A Python library that provides easy-to-use interfaces for NSFW (Not Safe For Work) image detection using an EVA-based vision transformer model published on Hugging Face: See the model details in [Model card](https://huggingface.co/Freepik/nsfw_test).
 
 ## Installation
+
+You can install this library via pip. The package is available in [PyPI](https://pypi.org/project/nsfw-image-detector/)
 
 ```bash
 pip install nsfw_image_detector
