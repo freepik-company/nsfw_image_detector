@@ -4,5 +4,5 @@ NSFW Image Detector - A Python package for NSFW content detection using EVA-base
 
 from .detector import NSFWDetector, NSFWLevel
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __all__ = ["NSFWDetector", "NSFWLevel"] 
