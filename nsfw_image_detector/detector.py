@@ -29,7 +29,7 @@ class NSFWDetector:
 
     def __init__(
         self, 
-        model_name: str = "Freepik/nsfw_test", 
+        model_name: str = "Freepik/nsfw_image_detector", 
         device: Optional[str] = None,
         dtype: torch.dtype = torch.bfloat16
     ):
